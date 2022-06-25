@@ -1,0 +1,7 @@
+
+// spread opretor and destructuring 
+arr =[1,2,3]
+
+funcrtion avg (a,b,c){
+return a+b+c/3
+}
